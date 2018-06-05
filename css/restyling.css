@@ -1,0 +1,205 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a:visted{
+	color:black;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+
+a:hover{
+	color:black;
+}
+
+a:focus{
+	color:black;
+}
+
+a:active{
+	color:black;
+}
+
+
+img{
+	margin-right: 20px;
+}
+
+body{
+	background-image: url(cssimages/whitepattern.jpg);
+	text-align: center;
+	width: 300px;
+	padding: 10px;
+	margin: 0px auto 0px auto;
+	max-width: 940px;
+	min-width: 940px;
+} 
+
+#pageHeader{
+	color: black;
+	text-align: center;
+	border-style: solid;
+	border-width: 3px;
+	font-family: arial;
+	font-weight:bold;
+	font-size: 50px;
+	background-color: CadetBlue;
+	padding: 10px;
+	margin: 0px;
+	width: 990px;
+	top: 10px;
+	left: 322px;
+	position: absolute;
+}
+
+#topMenu{
+	text-align: center;
+	width: 1010px; 
+	left: 322px;
+	border-style:solid;
+	border-width: 3px; 
+	font-size: 25px;
+	font-family: arial;
+	background-color: #ECEAF3;
+	position: absolute;
+	top: 94px;
+	margin: 10px auto 10px auto;
+	text-decoration: none;
+}
+
+#topMenu li{
+	display: inline-block;
+	list-style: none;
+	padding: 5px;  
+}
+
+#mainBox{
+	font-size: 25px;
+	text-align: left;
+	font-family: arial; 
+	width: 952px;
+	top: 150px;
+	left: 322px;
+	margin: 20px auto 20px auto;
+	background-color: #ECEAF3;
+	border-style: solid;
+	border-width: 2px; 
+	padding: 30px;
+	position: absolute;
+}
+
+/*
+body {
+  background-image: url(cssimages/whitepattern.jpg);
+  text-align: center;
+  width: 300px;
+  padding: 10px;
+  margin: 0px auto 0px auto;
+  max-width: 940px;
+  min-width: 940px;
+} 
+
+a:link {
+  color:black;
+  text-decoration: none;
+}
+
+a:visted{
+  color:black;
+}
+
+a:hover{
+	color:black;
+}
+
+a:focus{
+	color:black;
+}
+
+a:active{
+	color:black;
+}
+
+ul {
+  text-align: center;
+  width: 1000px;
+  padding: 5px;
+  margin: 10px auto 10px auto;
+  border-style:solid;
+  border-width: 3px;
+  background-color: #ECEAF3;
+  
+}
+
+li {
+ display: inline-block; 
+ list-style-position:inside;
+ float: none;
+ margin-right: 10px;
+ font-size: 25px;
+ font-family: arial;
+ text-align: center; 
+ background-color: #ECEAF3;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  border-style: solid;
+  border-width: 3px;
+  font-family: arial;
+  font-size: 50px;
+  background-color: CadetBlue;
+  top: 0px;
+  left: 0px;
+  padding: 10px;
+  margin: 0px;
+  width: 1000px;
+}
+
+h2 {
+  background-image: url(cssimages/whitepattern.jpg);
+  margin-left: 250px;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+p {
+  font-size: 18px;
+  font-family: arial; 
+  text-align: left;
+  background-color: #ECEAF3;
+  width: 950px;
+  height: 640px;
+  border-style: solid;
+  border-width: 2px; 
+  padding: 30px;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

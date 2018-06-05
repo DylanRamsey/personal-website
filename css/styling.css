@@ -1,0 +1,85 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a:visited{
+	color:black;
+}
+
+a:link{
+	text-decoration: none;
+	color:black;
+}
+
+a:hover{
+	color:black;
+}
+
+a:focus{
+	color:black;
+}
+
+a:active{
+	color:black;
+}
+
+img{
+	margin-right: 20px;
+	border:2px solid black;
+}
+
+body{
+	background-image: url(cssimages/whitepattern.jpg);
+	text-align: center;
+	width: 300px;
+	padding: 10px;
+	margin: auto;
+	max-width: 940px;
+	min-width: 940px; 
+} 
+
+#bigWrapper{
+	width: 800px; 
+	max-width: 940px;
+	min-width: 940px;
+	width: 300px;
+    padding: 10px;
+	margin: 0px auto 0px auto;
+	text-align: center; 
+}
+
+#topMenu{
+	text-align: center;
+	width: 1010px; 
+	border-style:solid;
+	border-width: 2px; 
+	font-size: 25px;
+	font-family: arial;
+	background-color: #ECEAF3;
+	position: absolute;
+	top: 130px;
+	margin: 10px auto 10px auto;
+	text-decoration: none;
+}
+
+#topMenu li{
+	display: inline-block;
+	list-style: none;
+	padding: 5px;  
+}
+
+#mainBox{
+	font-size: 25px;
+	text-align: left;
+	font-family: arial; 
+	width: 952px;
+	top: 180px;
+	margin: 20px auto 20px auto;
+	background-color: #ECEAF3;
+	border-style: solid;
+	border-width: 2px; 
+	padding: 30px;
+	position: absolute;
+}
+
