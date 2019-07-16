@@ -1,4 +1,13 @@
 # personal-website
+
+UPDATE 1-16-19
+
+Hey would you look at that, I got around to redoing my personal homepage. It's much more professional looking now! So all of this code is for the original website, which I'm still proud of because it was coded from complete scratch! But it's not what you will see today when you visit Dylanbradramsey.com 
+
+-Dylan R
+
+
+----------------------------------------------------------------------------------------------------------------------------
 The first (and current) version of my personal website. Pure HTML and CSS. Build it while learning HTML and CSS for the first 
 time and have slightly updated it here and then since. It's not bad, but not great either. One of these days I'll get around
 to completely rebuilding the site from the ground up, make it a lot more professional looking and better all around. 
